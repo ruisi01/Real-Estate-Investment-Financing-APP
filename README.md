@@ -8,6 +8,7 @@ This App was developed for our real estate investment consultation. By inputing 
 3. Click "Calculate". Now you get the valuation results of property 1.
 4. Repeat steps 1-3 for property 2.
 5. Compare the valuation of two investment scenarios, and make your decision based on your investment strategy.
+![alt text](http://url/to/prop-1.png)
 
 ### If we need to decide how much downpayment we spend on one specific property, we use the APP as follows.
 1. Input downpayment rate of scenario 1.
@@ -15,3 +16,4 @@ This App was developed for our real estate investment consultation. By inputing 
 3. Click "Calculate". Now you get the investment results of scenario 1.
 4. Repeat steps 1-3 for a different downpayment rate in scenario 2.
 5. Compare the valuation of two investment scenarios, and make your decision based on your investment strategy.
+![alt text](http://url/to/prop-2.png)
