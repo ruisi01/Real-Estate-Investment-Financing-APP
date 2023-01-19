@@ -27,3 +27,5 @@ Analysis: At a fixed downpayment rate, cheaper property brings more cashflow, wh
   <img src="/Scenario-1.png" width="490" />
   <img src="/Scenario-2.png" width="490" /> 
 </p>
+
+Analysis: At a higher downpayment rate (30%) scenario, the cashflow is positive, which is much better than the 10% one (negative). However, its "cumulative return" is much lower than the scenario with 10% downpayment.
